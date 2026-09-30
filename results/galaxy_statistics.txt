@@ -1,34 +1,41 @@
-| Scaffold L50 | 1 |
-| Scaffold N50 | 161019 bp |
-| Scaffold L90 | 1 |
-| Scaffold N90 | 161019 bp |
-| Scaffold len_max | 161019 bp |
-| Scaffold len_min | 161019 bp |
-| Scaffold len_mean | 161019 bp |
-| Scaffold len_median | 161019 bp |
-| Scaffold len_std | 0 bp |
-| Scaffold num_A | 50254 |
-| Scaffold num_T | 51462 |
-| Scaffold num_C | 29975 |
-| Scaffold num_G | 29328 |
-| Scaffold num_N | 0 |
-| Scaffold num_bp | 161019 bp |
-| Scaffold num_bp_not_N | 161019 bp |
-| Scaffold num_seq | 1 |
-| Scaffold GC content overall | 36.83% |
-| Contig L50 | 1 |
-| Contig N50 | 161019 bp |
-| Contig L90 | 1 |
-| Contig N90 | 161019 bp |
-| Contig len_max | 161019 bp |
-| Contig len_min | 161019 bp |
-| Contig len_mean | 161019 bp |
-| Contig len_median | 161019 bp |
-| Contig len_std | 0 bp |
-| Contig num_bp | 161019 bp |
-| Contig num_seq | 1 |
-| Number of gaps | 0 |
+Scaffold L50:                  1
+Scaffold N50:                  161019 bp
+Scaffold L90:                  1
+Scaffold N90:                  161019 bp
+Scaffold len_max:              161019 bp
+Scaffold len_min:              161019 bp
+Scaffold len_mean:             161019 bp
+Scaffold len_median:           161019 bp
+Scaffold len_std:              0 bp
+Scaffold num_A:                50254
+Scaffold num_T:                51462
+Scaffold num_C:                29975
+Scaffold num_G:                29328
+Scaffold num_N:                0
+Scaffold num_bp:               161019 bp
+Scaffold num_bp_not_N:         161019 bp
+Scaffold num_seq:              1
+Scaffold GC content overall:   36.83%
 
-## Interpretation
+Contig L50:                    1
+Contig N50:                    161019 bp
+Contig L90:                    1
+Contig N90:                    161019 bp
+Contig len_max:                161019 bp
+Contig len_min:                161019 bp
+Contig len_mean:               161019 bp
+Contig len_median:             161019 bp
+Contig len_std:                0 bp
+Contig num_bp:                 161019 bp
+Contig num_seq:                 1
 
-The sequence is 161,019 bp long and contains one scaffold and one contig record. The overall GC content is 36.83%. The sequence contains 0 ambiguous N bases and 0 gaps. Because the scaffold and contig sequence counts are both 1, the complete plastome is represented by one sequence record in this FASTA dataset.
+Number of gaps:                0
+
+
+INTERPRETATION
+
+The sequence is 161,019 bp long and contains one scaffold and one
+contig record. The overall GC content is 36.83%. The sequence contains
+0 ambiguous N bases and 0 gaps. Because the scaffold and contig
+sequence counts are both 1, the complete plastome is represented by
+one sequence record in this FASTA dataset.
