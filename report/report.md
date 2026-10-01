@@ -1,15 +1,5 @@
 # Plastid Genome Characterization: *Hibiscus syriacus*
 
-**Student:** Isabella Tuble
-
-**Course/Section:** Cell and Molecular Biology, A
-
-**Galaxy history:** Plastid_Hibiscus_Tuble
-
-**Galaxy tool:** Fasta Statistics (usegalaxy.org)
-
-**Date analysed:** 30 September 2026
-
 ## Summary
 
 | Item | Value |
