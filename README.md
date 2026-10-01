@@ -1,4 +1,4 @@
-# # Plastid Genome Characterization: Hibiscus syriacus
+# Plastid Genome Characterization: Hibiscus syriacus
 
 **Student:** Isabella Tuble
 
